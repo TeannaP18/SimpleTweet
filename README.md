@@ -33,13 +33,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif'/>
+<img src='https://github.com/TeannaP18/SimpleTweet/blob/master/walkthrough.gif'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't realize that I had to be following people in order for tweets to show up. My computer froze a few times while working so that made the overtime a bit slower. I'm still trying to get the timestamp right. 
 
 ## Open-source libraries used
 
